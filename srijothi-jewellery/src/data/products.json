@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "sku": "SJ-R-001",
+    "name": "Elegant Silver Ring",
+    "description": "92.5% Sterling Silver",
+    "category": "Rings",
+    "price": 49.99,
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNDkJbKMoXQ7oCyVOoBsukfD1_8j9lGws4BgBlZNRlH6VAs7rG2NF4IJUaLEnTIKwXzN7Cj2z5p24XRqfezgG7azkSkL_XtEH0qDzU7X3SHT7ym2uUq5Hv1Z61m2wIiHAnkUYaJlENUcz4p-0phj4Xy8OaQJdqS3bE7Qzscnd4nW-7ybV-ebiuI7buJq-xYPP5G9WptN0Jl0X8J1IO3GWI1bjjMq5g5HbV9BbbmOq1dGWkx2X6tlFTvQjizC5QfJbAUmgIy_2pgzvy"
+  },
+  {
+    "id": 2,
+    "sku": "SJ-B-001",
+    "name": "Classic Silver Bracelet",
+    "description": "92.5% Sterling Silver",
+    "category": "Bracelets",
+    "price": 89.99,
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAp3O7QYQki0j7V_SPnPOP3YK7DQu8vYueOZaP592h1jSgYN0H-39cn1-BJ13lDA-ljaOM0pdwGn2XfE-RkFGE8E6VS-aRerwogWgyavkQQK9aRF46RMIn5mufg5QzsNTNbkFI4DhrgrVckoRJ5w5Tk8utM0-z7DWhwn-Xdfuu4fl4HxZjD-cw1tVq7qGpCnaJp_Q5i2UD2VDo_KE39itGv2fZu__5CrL4TOuQEw74xe5rLAC3p41XJp4BbAC54JlWB-J4WRP7i11I3"
+  },
+  {
+    "id": 3,
+    "sku": "SJ-A-001",
+    "name": "Delicate Silver Anklet",
+    "description": "92.5% Sterling Silver",
+    "category": "Anklets",
+    "price": 69.99,
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuA_s-NfDJA7eV-ngcrAzzo-Elr7wa4lfNY5bL3dY_mkfSaCqbMMbqsbBQYqZMISaaCuaC5GE5FnOd3-yiQB01yUdAoo8tJFIINRC1es4Mybbd995F8glU7O3wL--Tgb6lReVxMataC_NQFxNO23nBBzdOWiiQVrSLV2HDQD2sxojJaMV4S-uWbsLefqcvwq4jne6yxOyqPqJ4twGFDtqFc1wzTrSWpzUEe5mSM519fHjCDbQZHrK8NACw4PnM9JZ6SarH2tkg87g3qt"
+  },
+  {
+    "id": 4,
+    "sku": "SJ-P-001",
+    "name": "Silver Pooja Thali",
+    "description": "92.5% Sterling Silver",
+    "category": "Pooja Items",
+    "price": 199.99,
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC-MaSz_Nma-dO34IIMlMWSwtfT5ap6oM-zB1U6Nck3bIckqgcNHO40sgoyRUIpmGDp3ik7SWzWxMFdxPdQ6YK4W9sohHxp_GaWvC_OT9VWc0EEtQ5_LM3FuTdJRc-hywcRWD_2ZSbRrjaF6gXnGvwwt4wce7_K2PnkErv4NoiuB_GeKdAgKLO9gAYWl1xULyaIpC8BM47iSAxWvBd6rN_AGv7FyxZeKtD98zl0SwfqR2Bnsgs4RNPHrKo6hTfZRtYvlQmPJnrBgixo"
+  },
+  {
+    "id": 5,
+    "sku": "SJ-G-001",
+    "name": "Silver Gift Set",
+    "description": "92.5% Sterling Silver",
+    "category": "Gift Silver",
+    "price": 249.99,
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDIZHrq1MUcpw6uC3KrH2DL415fIKJtHEyeuUvhvfd78oW-6nZalsCCNwUsjum4DYrQcwiNvbVgLKc26eYaVa-aHnGOrqouzBVc2S0l8qL3Tm7vv_VGkWWZkNiw3v8yP576Lgh3wxMfJS-uGXOIoD-Z47PPkOBd6yRmWcEQua-yTiOPKD4oxme_rXlHz55JmsQzzcVRS-u27AIDMFx0ua4Ujjiwa5TJyW4y1MZwJNhgj9eqz0rb61TVjYielLLup9E2YqnGznyCqxDI"
+  },
+  {
+    "id": 6,
+    "sku": "SJ-R-002",
+    "name": "Silver Rings",
+    "description": "Explore our collection of finely crafted silver rings.",
+    "category": "Rings",
+    "price": 59.99,
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCgyhOYv93bQExQH8D113cQQCR3TTg2cGhd0YafEK6gy4C-gWkjZoFcyvcUD7jMYdTIzuW4gpQ7rV88JPWe_IK7n_P2SiGqNXeeDOZFfJXiqHVmP2r8FqHiQV5kFpGLWQL3FqEoBlDQlisiR-unfLSNsxW3NbjdnrUgabDdV7LiUzuhxzjaAKmSUkiDu0jBj7qVXgP9lGURQOEAOYnZvRODVmXf1x5LtBhykCJ98gEq_fvivEuP1lrqkzfOzmQdQP5SNlHcMrKMS_nF"
+  },
+  {
+    "id": 7,
+    "sku": "SJ-B-002",
+    "name": "Silver Bracelets",
+    "description": "Discover our range of elegant silver bracelets.",
+    "category": "Bracelets",
+    "price": 99.99,
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDozbobLoNV_n7Pwnaflt66XMItSUkPj3BfDko0YwqIVA8cgBfTaSJ_C9J2jUtwPhfgJnYELeMayL3grVP26RtmFDhrm1CeY2A_-EODSgZ3a_wiQkTcPAyBQy7jMrqPMZ8-CspSYGthWh4DHZVOogzdU-cUsvKNd7ILr83nntPA0CiqeWLaW9yn8QS-rrTB6RVUO_IbKYnAz4NjbtlisBo7K8drjC4F4TaYz740mKPGyAZwX3-vxrh4ogKFThPJrzzOlpYn2iWvNx55"
+  },
+  {
+    "id": 8,
+    "sku": "SJ-A-002",
+    "name": "Silver Anklets",
+    "description": "Adorn your ankles with our beautiful silver anklets.",
+    "category": "Anklets",
+    "price": 79.99,
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDMXGWAcG3G1Clsjjr9PQTTDZInV3e4kaSRq90ddFd95_QMR2DsGNqU0utzNuoZab2IkmxyZUF5TTvaObeDLu76x8rsyxcDAAv9BPWQ48kCmgH6shDGF7wOy74ZS_-kIXlu6f7yoNpj32DpxJ46aFXwCTeCJ3ykL27UGQVtjz0r9lY3N7XHbDEy6zDJS2Jg4GP-9OVw3-_PnG1ldyd6yuU1pKxGCv_1jlTjwJX0qjfEBJC47ORLCBC3tZcBAaHWhI2x6O3czSj4gY2J"
+  }
+]
