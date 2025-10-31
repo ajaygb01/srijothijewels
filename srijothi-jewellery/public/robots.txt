@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://srijothi-jewellery.vercel.app/sitemap.xml
